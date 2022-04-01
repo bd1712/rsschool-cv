@@ -45,7 +45,8 @@
 
 ## Courses
 ******************************************************************************************************************************************************
-*FreeCodeCamp HTML and CSS: [https://freecodecamp.org/certification/fcccfb3244b-a919-4f46-a025-416b224c0352/responsive-web-design]("Freecodecamp")
+* **FreeCodeCamp HTML and CSS:**
++ ![Alt-Freecodecamp](/img/freeCodeCamp.org.png "Web design")
 ***********************************************************************************************************************
 ## Experience
 *********************************************************************************
@@ -59,7 +60,10 @@
 
 ## Languages:
 ********************************************************
-*English - A2
-*German - C1
-*Russian - Upper-intermediate
-*Kyrgyz - Native   
+* **English - A2**
+=========
+* **German - C1**
+=========
+* **Russian - Upper-intermediate**
+==================
+* **Kyrgyz - Native**  
