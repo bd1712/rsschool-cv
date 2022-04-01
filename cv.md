@@ -1,3 +1,4 @@
+
 ## rsschol-cv
 
 # Burul Dyikanbekova
@@ -35,6 +36,7 @@
 
 ## Code Example
 
+>>>>>>> gh-pages
 ```
  function arrayDiff(a, b) {
    for (let i = 0; i < a.length; i++) {
@@ -49,7 +51,6 @@
  }
 }
 ```
-
 ## Courses
 
 * **FreeCodeCamp HTML and CSS:**
@@ -76,3 +77,4 @@
 * **Russian - Upper-intermediate**
 
 * **Kyrgyz - Native**  
+
