@@ -4,8 +4,8 @@
 *********************************************************************
 ## Contacts
 * **Location:** Berlin,Germany
-* **Email:** dyikanbekovab@gmail.com
-* **GitHub:** @bd1712
+* **Email:** burul.dyikanbekova.kk@gmail.com
+* **GitHub:** [@bd1712]
 * **Discord:** Burul(@bd1712)
 *********************************************************************
 ## About Me
@@ -15,15 +15,15 @@
 ******************************************************************************************************************
 ## Skills and Proficiency:
 *******************************************************************************
-*HTML
-*CSS/SASS
-*JavaScript(Basics)
-*React(Basics)
-*WordPress
-*Java(Basics)
-*Phyton(Basics)
-*GitHub,Git
-*Figma,Adobe Photoshop
+**HTML**
+**CSS/SASS**
+**JavaScript(Basics)**
+**React(Basics)**
+**WordPress**
+**Java(Basics)**
+**Phyton(Basics)**
+**GitHub,Git**
+**Figma,Adobe Photoshop**
 
 
 ## Code Example
@@ -50,8 +50,9 @@
 ***********************************************************************************************************************
 ## Experience
 *********************************************************************************
-1.[ElBilet] [https://elbilet.kg/]
-2.[Bestartt][https://bestartt.com/]
+1.**ElBilet** [https://elbilet.kg/]
+
+2.**Bestartt** [https://bestartt.com/]
 
 ## Education
 ******************************************************************************************************************************
@@ -61,9 +62,9 @@
 ## Languages:
 ********************************************************
 * **English - A2**
-=========
+
 * **German - C1**
-=========
+
 * **Russian - Upper-intermediate**
-==================
+
 * **Kyrgyz - Native**  
