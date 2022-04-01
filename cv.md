@@ -53,9 +53,9 @@
 ## Courses
 
 * **FreeCodeCamp HTML and CSS:**
-+ ![Freecodecamp](/img/freeCodeCamp.org.png "Web design")
++ ![Freecodecamp] (/img/freeCodeCamp.org.png "Web design")
 * **SoloLearn Java basics**
-+ ![Alt-Java Sololearn](/img/java.png "Java")
++ ![Java Sololearn] (/img/java.png "Java")
 
 ## Experience
 
