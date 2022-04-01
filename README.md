@@ -1,2 +1,3 @@
 # rsschool-cv
-https://github.com/bd1712/rsschool-cv/cv
+https://bd1712.github.io/rsschool-cv/cv
+
