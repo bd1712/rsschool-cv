@@ -1,0 +1,35 @@
+body{
+    margin: 50px;
+    background-color: rgba(64, 145, 98, 0.5);
+}
+
+.contacts{
+    display: flex;
+    font-size: 20px;
+    
+}
+li{
+    font-size: 16px;
+}
+b{
+    font-weight: 700; 
+    font-size: 20px;
+}
+pre code {
+    background-color: #eee;
+    border: 1px solid #999;
+    display: block;
+    padding: 20px;
+  }
+
+  img{
+      width: 800px;
+      height: 500px;
+  }
+
+  a{
+      font-size: 16px;
+      display: flex;
+      
+      
+  }
