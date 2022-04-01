@@ -1,20 +1,19 @@
 ## rsschol-cv
-*********************************************************************
+
 # Burul Dyikanbekova
-*********************************************************************
+
 ## Contacts
 * **Location:** Berlin,Germany
 * **Email:** burul.dyikanbekova.kk@gmail.com
 * **GitHub:** @bd1712
 * **Discord:** Burul(@bd1712)
-*********************************************************************
+
 ## About Me
-*********************************************************************
+
  I'm a student in Berlin, I've been studying Frontend since last year, I studied Frontend at Zhyldyz Academy in Kyrgyzstan. I make different projects. I want to study JS in depth and want to study other frameworks from Frondend. Also looking for internships or work in frontend in Germany and other countries.
 
-******************************************************************************************************************
 ## Skills and Proficiency:
-*******************************************************************************
+
 **HTML**
 
 **CSS/SASS**
@@ -35,7 +34,7 @@
 
 
 ## Code Example
-***********************************************************************
+
 ```
  function arrayDiff(a, b) {
    for (let i = 0; i < a.length; i++) {
@@ -52,25 +51,24 @@
 ```
 
 ## Courses
-******************************************************************************************************************************************************
+
 * **FreeCodeCamp HTML and CSS:**
 + ![Alt-Freecodecamp](/img/freeCodeCamp.org.png "Web design")
 * **SoloLearn Java basics**
 + ![Alt-Java Sololearn](/img/java.png "Java")
-***********************************************************************************************************************
-## Experience
-*********************************************************************************
-1.**ElBilet** [https://elbilet.kg/]
 
-2.**Bestartt** [https://bestartt.com/]
+## Experience
+
+1.[**ElBilet**](https://elbilet.kg/ "Elbilet")
+2.[**Bestartt**](https://bestartt.com/ "Bestartt")
 
 ## Education
-******************************************************************************************************************************
+
 * **University:** Kyrgyz State Technical University, Medical Engeneering Bachelor
 * **University:** Berliner Hochschule für Technik, Medical Engeneering ,Bachelor
 
 ## Languages:
-********************************************************
+
 * **English - A2**
 
 * **German - C1**
