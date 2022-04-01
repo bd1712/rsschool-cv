@@ -16,13 +16,21 @@
 ## Skills and Proficiency:
 *******************************************************************************
 **HTML**
+
 **CSS/SASS**
+
 **JavaScript(Basics)**
+
 **React(Basics)**
+
 **WordPress**
+
 **Java(Basics)**
+
 **Phyton(Basics)**
+
 **GitHub,Git**
+
 **Figma,Adobe Photoshop**
 
 
